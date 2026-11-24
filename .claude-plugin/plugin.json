@@ -1,0 +1,19 @@
+{
+  "name": "imaginary-consultant",
+  "version": "1.0.0",
+  "description": "Thinking skills for working through business ideas out loud: brainstorm, reframe, first-principles, issue-tree and grill-me.",
+  "author": {
+    "name": "Vojtěch Brandejs",
+    "url": "https://github.com/vojtasbrandejs"
+  },
+  "homepage": "https://github.com/vojtasbrandejs/imaginary-consultant",
+  "repository": "https://github.com/vojtasbrandejs/imaginary-consultant",
+  "license": "MIT",
+  "keywords": [
+    "thinking",
+    "brainstorming",
+    "ideation",
+    "problem-solving",
+    "skills"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "imaginary-consultant",
+  "owner": {
+    "name": "Vojtěch Brandejs",
+    "url": "https://github.com/vojtasbrandejs"
+  },
+  "metadata": {
+    "description": "Thinking skills for Claude: the business partner you can call at 2 a.m."
+  },
+  "plugins": [
+    {
+      "name": "imaginary-consultant",
+      "source": "./",
+      "description": "Thinking skills for working through business ideas out loud: brainstorm, reframe, first-principles, issue-tree and grill-me."
+    }
+  ]
+}
